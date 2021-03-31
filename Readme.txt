@@ -60,6 +60,7 @@ Readme.txt
 atmtypenumbers (input atomic radius data file used by 3v application to calculate protein volume)
 bondi.rad (input atomic radius data file used by provol application to calculate protein volume)
 united.rad (input atomic radius data file used by provol application to calculate protein volume)
+logisticflowJACFC.pdf (GUI flow chart)
 
 -Relevant subfolders saved in folder JACFC
 
